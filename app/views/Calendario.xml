@@ -1,8 +1,6 @@
 <Alloy>
 	<Window class="container">
-	
-			<Button id="btnCalendario"></Button>
 		
-		
+		<WebView id="pdf"></WebView>
 	</Window>
 </Alloy>

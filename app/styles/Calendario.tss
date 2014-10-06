@@ -1,0 +1,10 @@
+
+".container" : {
+  
+}
+
+"#pdf":{
+	//url: 'http://www.ipn.mx/SiteCollectionDocuments/Calendario-IPN/Calend_ESCOLAR_14-15.pdf'
+	url: 'images/Calendario/Calend_ESCOLAR_14-15.pdf',
+	top:60
+}

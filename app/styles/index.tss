@@ -1,15 +1,14 @@
+
 ".container": {
-	backgroundColor:"white"
+	backgroundImage: 'images/login/Index.png',
+	//statusBarStyle: Titanium.UI.iPhone.StatusBar.LIGHT_CONTENT,
+	orientationModes: [Titanium.UI.PORTRAIT]
 }
 
-"Label": {
-	width: Ti.UI.SIZE,
-	height: Ti.UI.SIZE,
-	color: "#000"
-}
-
-"#label": {
-	font: {
-		fontSize: 12
-	}
+"#btnCalendario":{
+	height:50,
+	width:50,
+	//top:150,
+	 backgroundImage:'images/login/iconCalendario.png'
+	
 }
