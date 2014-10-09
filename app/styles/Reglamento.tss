@@ -1,10 +1,9 @@
-
 ".container" : {
   backgroundColor:"#fff"
 }
 
-"#pdf":{
+"#Reglamentopdf":{
 	//url: 'http://www.ipn.mx/SiteCollectionDocuments/Calendario-IPN/Calend_ESCOLAR_14-15.pdf'
-	url: 'images/Calendario/Calend_ESCOLAR_14-15.pdf',
+	url: 'images/Reglamento/Reglamento-Interno-CGC24-SEP-2014.pdf',
 	top:60
 }

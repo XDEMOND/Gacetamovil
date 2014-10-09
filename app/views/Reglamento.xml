@@ -1,7 +1,7 @@
 <Alloy>
 	<Window class="container">
 		<View>
-			<WebView id="pdf"></WebView>
+			<WebView id="Reglamentopdf"></WebView>
 			
 			
 			 </View>

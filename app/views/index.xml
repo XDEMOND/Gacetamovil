@@ -2,7 +2,8 @@
 	<Window class="container">
 	
 			<Button id="btnCalendario"></Button>
-		
+			<Button id="btnReglamento"></Button>>
+			<Button id="btnGaceta"></Button>
 		
 	</Window>
 </Alloy>
