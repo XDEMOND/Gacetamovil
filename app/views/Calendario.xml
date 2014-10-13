@@ -1,8 +1,9 @@
 <Alloy>
 	<Window class="container">
 		<View>
-			<WebView id="pdf"></WebView>
 			
+			<WebView id="pdf"></WebView>
+			<Button id="btnregresar"></Button>
 			
 			 </View>
 		

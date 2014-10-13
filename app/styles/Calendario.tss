@@ -3,8 +3,18 @@
   backgroundColor:"#fff"
 }
 
+"#btnregresar":{
+	height:50,
+	width:50,
+	top:20,
+	backgroundColor:"#000",
+	title:"return"
+	
+}
+
 "#pdf":{
-	//url: 'http://www.ipn.mx/SiteCollectionDocuments/Calendario-IPN/Calend_ESCOLAR_14-15.pdf'
-	url: 'images/Calendario/Calend_ESCOLAR_14-15.pdf',
+	url: 'https://www.dropbox.com/s/ufzexn1hw8re527/Calend_ESCOLAR_14-15.pdf?dl=0',
+	//url: 'images/Calendario/Calend_ESCOLAR_14-15.pdf',
 	top:60
 }
+
